@@ -1,0 +1,7 @@
+C:\Users\Stephen\Desktop\C#\CSharp Assessment\CSharp Assessment\bin\Debug\CSharp Assessment.exe.config
+C:\Users\Stephen\Desktop\C#\CSharp Assessment\CSharp Assessment\bin\Debug\CSharp Assessment.exe
+C:\Users\Stephen\Desktop\C#\CSharp Assessment\CSharp Assessment\bin\Debug\CSharp Assessment.pdb
+C:\Users\Stephen\Desktop\C#\CSharp Assessment\CSharp Assessment\obj\Debug\CSharp Assessment.csprojAssemblyReference.cache
+C:\Users\Stephen\Desktop\C#\CSharp Assessment\CSharp Assessment\obj\Debug\CSharp Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\C#\CSharp Assessment\CSharp Assessment\obj\Debug\CSharp Assessment.exe
+C:\Users\Stephen\Desktop\C#\CSharp Assessment\CSharp Assessment\obj\Debug\CSharp Assessment.pdb
